@@ -10,6 +10,3 @@
 
 <img align = "Left" alt = 'HTML5' src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 
-<img alt = 'Numpy' src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-
-
