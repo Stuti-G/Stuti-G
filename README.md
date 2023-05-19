@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=45&pause=1000&color=010117&center=true&vCenter=true&width=435&lines=Stuti+Goel+🙌)](https://git.io/typing-svg)
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
-  <h4>Hey, I'm Stuti 🙋‍♀️ . I'm passionate about  Machine learning🤖, Deep Learning👨‍💻! I'm currently doing my Master's degree🎓 from Bennett University 🏫.</h4>
+  <h4>Hey, I'm Stuti 🙋‍♀️ . I'm passionate about  Machine learning🤖, Deep Learning👨‍💻! I'm currently pursuing my Master's degree🎓 from Bennett University 🏫.</h4>
 
 
 <a href=#><img src="https://64.media.tumblr.com/d6abc3e2c483a29be495ce6e08c28540/tumblr_mkqtnpDYGH1rnwo2vo1_500.gif" alt="Tech" align="right" width="50%"></a>
