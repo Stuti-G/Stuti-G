@@ -12,9 +12,9 @@
 > 📫 How to reach me stutie005@gmail.com or E22MCAG0005@bennett.edu.in
   
   <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
-<code><a href="(https://www.linkedin.com/in/stuti-goel-742b24209/)" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="StutiGoel" height="30" width="40" /></a></code>
-<code><a href="(https://www.kaggle.com/stuti4813)" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="StutiGoel" height="30" width="40" /></a></code>
-<code><a href="(https://www.hackerrank.com/stutie0005)" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="StutiGoel" height="30" width="40" /></a></code>
+<code><a href="https://www.linkedin.com/in/stuti-goel-742b24209/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="StutiGoel" height="30" width="40" /></a></code>
+<code><a href="https://www.kaggle.com/stuti4813" target="_blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="StutiGoel" height="30" width="40" /></a></code>
+<code><a href="https://www.hackerrank.com/stutie0005" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="StutiGoel" height="30" width="40" /></a></code>
 </details>
 
 <details open><summary><h3 align="left">💻 Languages:</h3></summary>‍
