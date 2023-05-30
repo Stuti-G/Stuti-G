@@ -1,3 +1,19 @@
+```pyhton
+#about.me
+import interests
+import skills
+import tools
+
+def main():
+    me = [interests, skills, tools]
+    with open('ABOUTME.txt', 'w') as file:
+        for info in me:
+            file.write(str(info) + '\n')
+
+if __name__ == "__main__":
+    main()
+```
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=45&pause=1000&color=010117&center=true&vCenter=true&width=435&lines=Stuti+Goel+🙌)](https://git.io/typing-svg)
 <table><th><h2 align="center">ABOUTME.txt</h2></th>
 <tr><td>
