@@ -25,7 +25,7 @@ if __name__ == "__main__":
 
 > 👥 I’m looking to collaborate on **more machine learning projects**
 
-> 📫 How to reach me stutie005@gmail.com or E22MCAG0005@bennett.edu.in
+> 📫 How to reach me stutie0005@gmail.com or E22MCAG0005@bennett.edu.in
   
   <details open><summary><h3 align="left">🌐 Connect with me:</h3></summary>
 <code><a href="https://www.linkedin.com/in/stuti-goel-742b24209/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="StutiGoel" height="30" width="40" /></a></code>
